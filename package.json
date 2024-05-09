@@ -1,6 +1,6 @@
 {
   "name": "react-iconfont-cli",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "main": "index.js",
   "keywords": [
     "iconfont",
@@ -10,7 +10,7 @@
     "icons",
     "iconfont.cn"
   ],
-  "repository": "git@github.com:iconfont-cli/react-iconfont-cli.git",
+  "repository": "git@github.com:xqsh/react-iconfont-cli.git",
   "author": "hqnqh",
   "license": "MIT",
   "bin": {
